@@ -1,24 +1,72 @@
-# 💫 About Me:
-🔭 Currently working on real-world data analysis projects involving time series, user behavior, and synthetic data generation  
-🌱 Learning advanced statistical analysis (SciPy, StatsModels) to strengthen analytical depth  
-🤝 Looking to collaborate on data-driven projects and real-world problem solving  
-💬 Ask me about Python, SQL, Power BI, and Machine Learning workflows  
-⚡ Fun fact: I enjoy anime and breaking down complex problems into simple insights 
+# 👨‍💻 Bukkapatnam Rahul Sharma
 
-## 🌐 Socials:
- [LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukkapatnam-rahulsharma/)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahul-sharma-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rahul-sharma-03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-sharma-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Data Science postgraduate with hands-on industry experience in machine learning, time series forecasting, and privacy-safe synthetic data generation (TDM). I work across data diagnostics, modeling, and evaluation to build scalable ML workflows using Python, SQL, and deep learning frameworks. [file:1]
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahul-sharma-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔎 What I Do
+
+- Build end-to-end **machine learning pipelines** for regression, classification, and time series forecasting  
+- Design **synthetic data generation** workflows (tabular and time-series) with privacy and utility in mind  
+- Apply **deep learning** for time series, text generation, and medical imaging use cases  
+- Perform **EDA, feature engineering, and statistical analysis** to derive actionable insights  
+
+---
+
+## 🧑‍💻 Experience
+
+**Machine Learning Intern (Paid) — AIEnsured / TestAing Solutions Pvt. Ltd (Remote)**  
+*Sep 2025 – Present*  
+- Designed a Test Data Management (TDM) pipeline to generate privacy-safe synthetic tabular datasets for ML experimentation  
+- Built workflows for data diagnostics, synthetic data generation, and evaluation  
+- Evaluated synthetic data using correlation preservation and TSTR metrics  
+- Applied transformer-based text generation using fine-tuned DistilGPT2 with prompt-based inputs, nucleus sampling, and repetition penalty [file:1]
+
+**Machine Learning Intern — AIEnsured / TestAing Solutions Pvt. Ltd (Remote)**  
+*Sep 2024 – May 2025*  
+- Built ARIMA and SARIMA models for stock and weather forecasting  
+- Designed synthetic time-series generation pipelines using TimeGAN, DoppelGANger, and LSTM models [file:1]
+
+**Data Science Intern — TechVedika Software Pvt. Ltd, Hyderabad**  
+*Mar 2023 – Jun 2023*  
+- Annotated and segmented cardiac CT scan images, achieving 98% labeling accuracy  
+- Developed image processing workflows using Python, OpenCV, and scikit-image  
+- Performed dataset validation and quality checks under strict confidentiality standards [file:1]
+
+---
+
+## 📂 Selected Projects
+
+**Time Series Data Generation using Deep Learning**  
+- Implemented TimeGAN and DoppelGANger architectures for realistic synthetic time-series data  
+- Evaluated generated data using statistical similarity and correlation analysis [file:1]
+
+**Mobile Device Usage User Behaviour Analysis using Machine Learning**  
+- Conducted EDA with Pandas and NumPy to identify mobile usage behavior patterns  
+- Preprocessed data (missing values, encoding, normalization) and built ML models with Scikit-learn  
+- Visualized key insights using Matplotlib and Seaborn [file:1]
+
+---
+
+## 🛠️ Skills
+
+- **Programming:** Python, SQL, R  
+- **Data Science & Analysis:** Pandas, NumPy, SciPy, EDA, data preprocessing, feature engineering, statistical analysis, model evaluation  
+- **Machine Learning:** Regression, classification, time series forecasting, ARIMA, SARIMA, synthetic data generation  
+- **Deep Learning:** TensorFlow, Keras, PyTorch, GANs, TimeGAN, LSTM, transformer models (DistilGPT2)  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Microsoft Power BI  
+- **Tools & Platforms:** Scikit-learn, Git, Jupyter Notebook, OpenCV [file:1]
+
+---
+
+## 🎓 Education
+
+- **M.Sc Data Science** — Loyola Academy, Hyderabad — CGPA: 9.08  
+- **B.Sc Data Science** — GITAM University, Hyderabad — CGPA: 8.6 [file:1]
+
+---
+
+## 🌐 Links
+
+- LinkedIn: [linkedin.com/in/bukkapatnam-rahulsharma](https://www.linkedin.com/in/bukkapatnam-rahulsharma/)  
+- GitHub: [github.com/rahul-sharma-03](https://github.com/rahul-sharma-03) [file:1]
