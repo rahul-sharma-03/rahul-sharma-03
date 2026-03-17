@@ -5,37 +5,37 @@
 ---
 
 # 💫 About Me:
-🔭 Data Science postgraduate with industry experience in machine learning, time series forecasting, and privacy-safe synthetic data generation (TDM pipelines) [file:1]  
-🌱 Working on real-world projects involving stock/weather forecasting, user behaviour analysis, and GAN/transformer-based synthetic data generation [file:1]  
-🧪 Hands-on with TimeGAN, DoppelGANger, LSTM models, and transformer-based text generation using DistilGPT2 [file:1]  
-🤝 Interested in collaborating on data-driven projects in time series, synthetic data, and applied ML for real-world problem solving [file:1]  
-💬 Ask me about Python, SQL, Power BI, end-to-end ML workflows, and model evaluation [file:1]  
+🔭 Data Science postgraduate with industry experience in machine learning, time series forecasting, and privacy-safe synthetic data generation (TDM pipelines)  
+🌱 Working on real-world projects involving stock/weather forecasting, user behaviour analysis, and GAN/transformer-based synthetic data generation  
+🧪 Hands-on with TimeGAN, DoppelGANger, LSTM models, and transformer-based text generation using DistilGPT2  
+🤝 Interested in collaborating on data-driven projects in time series, synthetic data, and applied ML for real-world problem solving  
+💬 Ask me about Python, SQL, Power BI, end-to-end ML workflows, and model evaluation  
 ⚡ Fun fact: I enjoy anime and love breaking down complex deep-learning and data problems into simple, clear insights  
 
 ---
 
 ## 🧑‍💻 Experience (Brief)
 
-- Built Test Data Management (TDM) pipelines for privacy-safe synthetic **tabular** data and evaluation using correlation preservation and TSTR metrics at AIEnsured / TestAing Solutions (Remote) [file:1]  
-- Developed ARIMA/SARIMA forecasting models and synthetic **time-series** generation workflows using TimeGAN, DoppelGANger, and LSTM [file:1]  
-- Worked on **medical imaging** pipelines by annotating cardiac CT scans and building image processing workflows with Python and OpenCV at TechVedika [file:1]  
+- Built Test Data Management (TDM) pipelines for privacy-safe synthetic tabular data and evaluation using correlation preservation and TSTR metrics at AIEnsured / TestAing Solutions (Remote)  
+- Developed ARIMA/SARIMA forecasting models and synthetic time-series generation workflows using TimeGAN, DoppelGANger, and LSTM  
+- Worked on medical imaging pipelines by annotating cardiac CT scans and building image processing workflows with Python and OpenCV at TechVedika  
 
 ---
 
 ## 📂 Featured Projects
 
 - **Time Series Data Generation using Deep Learning**  
-  - Implemented TimeGAN and DoppelGANger architectures for realistic synthetic time-series data, evaluated via statistical similarity and correlation analysis [file:1]  
+  - Implemented TimeGAN and DoppelGANger architectures for realistic synthetic time-series data, evaluated via statistical similarity and correlation analysis  
 
 - **Mobile Device Usage User Behaviour Analysis using Machine Learning**  
-  - Performed EDA, preprocessing (missing values, encoding, normalization), and built ML models with Scikit-learn to analyze mobile usage patterns, visualized using Matplotlib and Seaborn [file:1]  
+  - Performed EDA, preprocessing (missing values, encoding, normalization), and built ML models with Scikit-learn to analyze mobile usage patterns, visualized using Matplotlib and Seaborn  
 
 ---
 
 ## 🎓 Education
 
-- M.Sc Data Science — Loyola Academy, Hyderabad (CGPA: 9.08) [file:1]  
-- B.Sc Data Science — GITAM University, Hyderabad (CGPA: 8.6) [file:1]  
+- M.Sc Data Science — Loyola Academy, Hyderabad (CGPA: 9.08)  
+- B.Sc Data Science — GITAM University, Hyderabad (CGPA: 8.6)  
 
 ---
 
