@@ -4,7 +4,7 @@
 🧪 Hands-on with TimeGAN, DoppelGANger, LSTM models, and transformer-based text generation using DistilGPT2  
 🤝 Looking to collaborate on data-driven projects in time series, synthetic data, and applied ML for real-world problem solving  
 💬 Ask me about Python, SQL, Power BI, end-to-end ML workflows, and model evaluation  
-⚡ Fun fact: I enjoy anime and love breaking down complex deep-learning and data problems into simple, clear insights  
+⚡ Fun fact: I enjoy anime and love breaking down complex deep-learning and data problems into simple, clear insights
 
 ---
 
