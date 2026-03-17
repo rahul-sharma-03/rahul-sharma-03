@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Bukkapatnam Rahul Sharma</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 💫 About Me:
+🔭 Currently working on real-world data analysis projects involving time series, user behavior, and synthetic data generation  
+🌱 Learning advanced statistical analysis (SciPy, StatsModels) to strengthen analytical depth  
+🤝 Looking to collaborate on data-driven projects and real-world problem solving  
+💬 Ask me about Python, SQL, Power BI, and Machine Learning workflows  
+⚡ Fun fact: I enjoy anime and breaking down complex problems into simple insights 
 
-- 🔭 I’m currently working on [TDM Pipeline - Synthetic Data Generation](https://github.com/rahul-sharma-03)
+## 🌐 Socials:
+ [LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukkapatnam-rahulsharma/)
 
-- 🌱 I’m currently learning **Power BI, Advanced SQL, Statistical Analysis, Data Storytelling**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahul-sharma-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rahul-sharma-03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-sharma-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Data Analytics and Machine Learning Projects**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahul-sharma-03](https://github.com/rahul-sharma-03)
+---
+[![](https://visitcount.itsvg.in/api?id=rahul-sharma-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **Python, SQL, Data Analysis, EDA, Machine Learning, Power BI, Pandas, NumPy**
-
-- 📫 How to reach me **brahulsharma02@gmail.com**
-
-- ⚡ Fun fact **I play badminton and love gaming in my free time!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bukkapatnam-rahulsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bukkapatnam-rahulsharma" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
